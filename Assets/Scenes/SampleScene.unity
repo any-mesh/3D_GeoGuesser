@@ -501,7 +501,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _showCreditsOnScreen: 1
   _tilesetSource: 1
-  _url: https://tile.googleapis.com/v1/3dtiles/root.json?key=AIzaSyBxk5v4AaVlJ4fI-4v2uA676QFwzPdYqDc
+  _url: https://tile.googleapis.com/v1/3dtiles/root.json?key=(worldGame)
   _ionAssetID: 0
   _ionAccessToken: 
   _ionServer: {fileID: 11400000, guid: edd5f96f1dbb9bd48b757fdd95dda46d, type: 2}
